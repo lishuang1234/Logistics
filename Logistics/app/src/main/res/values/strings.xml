@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Logistics</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="select_type">查询条件</string>
+
+
+    <string-array name="type">
+        <item>货物编号</item>
+        <item>用户编号</item>
+        <item>货物类别</item>
+    </string-array>
+    <string-array name="type2">
+        <item>运单编号</item>
+        <item>用户编号</item>
+        <item>时间</item>
+    </string-array>
+
+    <string-array name="type3">
+        <item>轻泡货物</item>
+        <item>纯重货物</item>
+        <item>重泡货物</item>
+        <item>特殊货物</item>
+    </string-array>
+    <string-array name="type4">
+        <item>男</item>
+        <item>女</item>
+
+    </string-array>
+</resources>
